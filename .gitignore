@@ -1,0 +1,4 @@
+*.jar
+/testSpring/build
+/testSpring/out
+/testSpring/.idea
